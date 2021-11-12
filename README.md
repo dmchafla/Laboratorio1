@@ -8,6 +8,7 @@ PRÁCTICA No. 1	LEYES DE KIRCHHOFF
 Aplicar los conocimientos adquiridos para poder explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes.
 
 1.1.2.	Objetivos Específicos
+
   •	Verificar el cumplimiento de la regla de Kirchhoff de voltajes.    
   •	Verificar el cumplimiento de la regla de Kirchhoff de corrientes
 
