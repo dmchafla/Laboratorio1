@@ -32,13 +32,15 @@ Uno de los métodos ampliamente utilizados en el análisis de circuitos eléctri
 
 1.5.	PROCEDIMIENTO
 
-1.5.1.	Arme el circuito que se muestra en la figura 1.1.
+1.5.1.	Arme el circuito que se muestra en la figura 1.1
+
 ![image](https://user-images.githubusercontent.com/93415377/141506673-9f3a57a1-d623-4e35-918d-3bd0875abdcb.png)
 
 1.5.2.	Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1.
 
 
-Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
+Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito
+
 ![image](https://user-images.githubusercontent.com/93415377/141506815-0033b28b-ffc0-42fc-93a4-38990db7c22a.png)
 
 
